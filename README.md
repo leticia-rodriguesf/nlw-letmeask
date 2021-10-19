@@ -1,4 +1,4 @@
-# Let Me Ask - NlW (RocketSeat) 
+# Let Me Ask - NLW (RocketSeat) 
 
 ## Preview da aplicação: 
 ![imagem](https://github.com/leticia-rodriguesf/nlw-letmeask/blob/main/src/assets/images/cover.svg)
